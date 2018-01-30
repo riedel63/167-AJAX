@@ -1,0 +1,8 @@
+c:\users\mriedel\documents\visual studio 2015\Projects\Flags\Flags\bin\Debug\Flags.exe.config
+c:\users\mriedel\documents\visual studio 2015\Projects\Flags\Flags\bin\Debug\Flags.exe
+c:\users\mriedel\documents\visual studio 2015\Projects\Flags\Flags\bin\Debug\Flags.pdb
+c:\users\mriedel\documents\visual studio 2015\Projects\Flags\Flags\obj\Debug\Flags.Form1.resources
+c:\users\mriedel\documents\visual studio 2015\Projects\Flags\Flags\obj\Debug\Flags.Properties.Resources.resources
+c:\users\mriedel\documents\visual studio 2015\Projects\Flags\Flags\obj\Debug\Flags.csproj.GenerateResource.Cache
+c:\users\mriedel\documents\visual studio 2015\Projects\Flags\Flags\obj\Debug\Flags.exe
+c:\users\mriedel\documents\visual studio 2015\Projects\Flags\Flags\obj\Debug\Flags.pdb

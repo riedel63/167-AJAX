@@ -1,0 +1,8 @@
+c:\users\mriedel\documents\visual studio 2015\Projects\Code_Demo\Code_Demo\bin\Debug\Code_Demo.exe.config
+c:\users\mriedel\documents\visual studio 2015\Projects\Code_Demo\Code_Demo\bin\Debug\Code_Demo.exe
+c:\users\mriedel\documents\visual studio 2015\Projects\Code_Demo\Code_Demo\bin\Debug\Code_Demo.pdb
+c:\users\mriedel\documents\visual studio 2015\Projects\Code_Demo\Code_Demo\obj\Debug\Code_Demo.Form1.resources
+c:\users\mriedel\documents\visual studio 2015\Projects\Code_Demo\Code_Demo\obj\Debug\Code_Demo.Properties.Resources.resources
+c:\users\mriedel\documents\visual studio 2015\Projects\Code_Demo\Code_Demo\obj\Debug\Code_Demo.csproj.GenerateResource.Cache
+c:\users\mriedel\documents\visual studio 2015\Projects\Code_Demo\Code_Demo\obj\Debug\Code_Demo.exe
+c:\users\mriedel\documents\visual studio 2015\Projects\Code_Demo\Code_Demo\obj\Debug\Code_Demo.pdb
