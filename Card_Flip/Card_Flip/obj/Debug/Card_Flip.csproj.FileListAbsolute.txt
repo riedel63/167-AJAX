@@ -1,0 +1,9 @@
+c:\users\mriedel\documents\visual studio 2015\Projects\Card_Flip\Card_Flip\bin\Debug\Card_Flip.exe.config
+c:\users\mriedel\documents\visual studio 2015\Projects\Card_Flip\Card_Flip\bin\Debug\Card_Flip.exe
+c:\users\mriedel\documents\visual studio 2015\Projects\Card_Flip\Card_Flip\bin\Debug\Card_Flip.pdb
+c:\users\mriedel\documents\visual studio 2015\Projects\Card_Flip\Card_Flip\obj\Debug\Card_Flip.csprojResolveAssemblyReference.cache
+c:\users\mriedel\documents\visual studio 2015\Projects\Card_Flip\Card_Flip\obj\Debug\Card_Flip.cardFlip.resources
+c:\users\mriedel\documents\visual studio 2015\Projects\Card_Flip\Card_Flip\obj\Debug\Card_Flip.Properties.Resources.resources
+c:\users\mriedel\documents\visual studio 2015\Projects\Card_Flip\Card_Flip\obj\Debug\Card_Flip.csproj.GenerateResource.Cache
+c:\users\mriedel\documents\visual studio 2015\Projects\Card_Flip\Card_Flip\obj\Debug\Card_Flip.exe
+c:\users\mriedel\documents\visual studio 2015\Projects\Card_Flip\Card_Flip\obj\Debug\Card_Flip.pdb
