@@ -1,0 +1,9 @@
+c:\users\mriedel\documents\visual studio 2015\Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe.config
+c:\users\mriedel\documents\visual studio 2015\Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe
+c:\users\mriedel\documents\visual studio 2015\Projects\Latin Translator\Latin Translator\bin\Debug\Latin Translator.pdb
+c:\users\mriedel\documents\visual studio 2015\Projects\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csprojResolveAssemblyReference.cache
+c:\users\mriedel\documents\visual studio 2015\Projects\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.latinTranslator.resources
+c:\users\mriedel\documents\visual studio 2015\Projects\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.Properties.Resources.resources
+c:\users\mriedel\documents\visual studio 2015\Projects\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.GenerateResource.Cache
+c:\users\mriedel\documents\visual studio 2015\Projects\Latin Translator\Latin Translator\obj\Debug\Latin Translator.exe
+c:\users\mriedel\documents\visual studio 2015\Projects\Latin Translator\Latin Translator\obj\Debug\Latin Translator.pdb
