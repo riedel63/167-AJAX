@@ -1,0 +1,9 @@
+c:\users\mriedel\documents\visual studio 2015\Projects\Language Translator\Language Translator\bin\Debug\Language Translator.exe.config
+c:\users\mriedel\documents\visual studio 2015\Projects\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+c:\users\mriedel\documents\visual studio 2015\Projects\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+c:\users\mriedel\documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language Translator.csprojResolveAssemblyReference.cache
+c:\users\mriedel\documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language_Translator.Form1.resources
+c:\users\mriedel\documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language_Translator.Properties.Resources.resources
+c:\users\mriedel\documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language Translator.csproj.GenerateResource.Cache
+c:\users\mriedel\documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language Translator.exe
+c:\users\mriedel\documents\visual studio 2015\Projects\Language Translator\Language Translator\obj\Debug\Language Translator.pdb
